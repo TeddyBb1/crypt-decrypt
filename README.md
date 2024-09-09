@@ -41,7 +41,7 @@ The **crypt_decrypt.py** application provides a user-friendly graphical interfac
 
 ## 📸 Screenshot
 
-<img src="path_to_screenshot" alt="Screenshot of crypt-decrypt application" width="500"/>
+<img src="[path_to_screenshot](https://www.screenpresso.com/=bQkX)" alt="Screenshot of crypt-decrypt application" width="500"/>
 
 ---
 
